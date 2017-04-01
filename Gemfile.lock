@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    unparser (0.2.5)
+    unparser (0.2.5.1)
       abstract_type (~> 0.0.7)
       adamantium (~> 0.2.0)
       concord (~> 0.1.5)
@@ -163,4 +163,4 @@ DEPENDENCIES
   unparser!
 
 BUNDLED WITH
-   1.13.7
+   1.14.3
